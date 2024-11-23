@@ -1,0 +1,1 @@
+This Repository Contain Processing IDE code for a Arduino Radar which is made as a science project using arduino uno, ultrasonic sensor and servo motor with a bblinking led. with some extra fucntionality like beeping sound for obbject detection and dynamic color coading you can further improve it.
