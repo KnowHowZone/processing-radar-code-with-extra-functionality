@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radar Display</title>
+</head>
+<body>
+  <h1>Radar Display</h1>
+  <video id="video" autoplay controls></video>
+
+  <script>
+    const video = document.getElementById('video');
+    video.src = '/video_feed'; 
+    video.load(); // Important: Load the video source
+    video.play(); 
+  </script>
+</body>
+</html>
